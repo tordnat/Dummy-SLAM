@@ -1,3 +1,3 @@
-# noob_slam
+# SLAM for Dummies
 
-- Using symforce for solving non-linear least squares https://github.com/symforce-org/symforce?tab=readme-ov-file
+Resources and tutorials for learing SLAM
